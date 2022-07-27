@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9085fcac-de92-40fa-b9f9-b0b95706f852" name="Changes" comment="" />
+    <list default="true" id="9085fcac-de92-40fa-b9f9-b0b95706f852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BTVN3/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN3/Bai2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN2/Bai1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN2/Bai2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN2/Bai3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,26 +43,43 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bai3">
-    <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../jdkjava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Bai1" />
+  <component name="RunManager" selected="Application.BTVN3.Bai2">
+    <configuration name="BTVN2.Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN2.Bai2" />
       <module name="JavaHit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2" />
+    <configuration name="BTVN2.Bai3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN2.Bai3" />
       <module name="JavaHit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3" />
+    <configuration name="BTVN3.Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN3.Bai1" />
       <module name="JavaHit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BTVN3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTVN3.Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN3.Bai2" />
+      <module name="JavaHit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BTVN3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,17 +92,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN3.test" />
+      <module name="JavaHit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BTVN3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Javahit" />
-      <item itemvalue="Application.Bai2" />
-      <item itemvalue="Application.Bai3" />
-      <item itemvalue="Application.Bai1" />
+      <item itemvalue="Application.BTVN2.Bai2" />
+      <item itemvalue="Application.BTVN3.Bai1" />
+      <item itemvalue="Application.BTVN3.Bai2" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.BTVN2.Bai3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai3" />
-        <item itemvalue="Application.Bai2" />
-        <item itemvalue="Application.Bai1" />
+        <item itemvalue="Application.BTVN3.Bai2" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.BTVN3.Bai1" />
+        <item itemvalue="Application.BTVN2.Bai3" />
+        <item itemvalue="Application.BTVN2.Bai2" />
       </list>
     </recent_temporary>
   </component>
