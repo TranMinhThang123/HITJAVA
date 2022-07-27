@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9085fcac-de92-40fa-b9f9-b0b95706f852" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BTVN3/Bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN3/Bai2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN2/Bai1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN2/Bai2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN2/Bai3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BTVN3/Bai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTVN3/Bai2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,16 +104,16 @@
     <list>
       <item itemvalue="Application.Javahit" />
       <item itemvalue="Application.BTVN2.Bai2" />
+      <item itemvalue="Application.BTVN2.Bai3" />
       <item itemvalue="Application.BTVN3.Bai1" />
       <item itemvalue="Application.BTVN3.Bai2" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.BTVN2.Bai3" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BTVN3.Bai2" />
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.BTVN3.Bai1" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.BTVN2.Bai3" />
         <item itemvalue="Application.BTVN2.Bai2" />
       </list>

@@ -18,7 +18,7 @@ public class Bai2 {
         s = s.trim();
         s = s.replaceAll("\\s+"," ");
         System.out.println(s);
-        String s1[] = removeDigit(s).split(" ");
+        String s1[] = removeDigit(s).trim().split(" ");
         for(int i=0;i<s1.length;i++){
             System.out.println(s1[i]);
         }

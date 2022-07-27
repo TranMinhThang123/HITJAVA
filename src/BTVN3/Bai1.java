@@ -54,6 +54,13 @@ public class Bai1 {
         for(int i=0;i<n;i++){
             a[i] = scan.nextInt();
         }
+        int sum = 0;
+        for(int i=0;i<n;i++){
+            if(a[i]%2!=0&&i%2==0){
+                sum+=a[i];
+            }
+        }
+        System.out.println("Tong cac so le o vi tri chan la "+sum);
         int sonhonhat = snn(a,n);
         System.out.println("Vi tri cac so nho nhat la ");
         for(int i=0;i<n;i++){
