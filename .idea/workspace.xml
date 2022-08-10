@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9085fcac-de92-40fa-b9f9-b0b95706f852" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/Bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/Bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/Bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/Bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN4/PTbac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/Bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/May.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/PhongMay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/QuanLy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BTVN5/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,23 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javaprograming/HelloWorld&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
-  }
-}</component>
-  <component name="RunManager" selected="Application.Bai4">
-    <configuration name="BTVN3.Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BTVN3.Bai2" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Bai2 (1)">
+    <configuration name="Bai1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN5.Bai1" />
       <module name="JavaHit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BTVN3.*" />
+          <option name="PATTERN" value="BTVN5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BTVN4.Bai1" />
+    <configuration name="Bai2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN5.Bai2" />
       <module name="JavaHit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BTVN4.*" />
+          <option name="PATTERN" value="BTVN5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +117,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Javahit" />
-      <item itemvalue="Application.Bai1" />
       <item itemvalue="Application.Bai2" />
       <item itemvalue="Application.Bai3" />
       <item itemvalue="Application.Bai4" />
-      <item itemvalue="Application.BTVN3.Bai2" />
+      <item itemvalue="Application.Bai1 (1)" />
+      <item itemvalue="Application.Bai2 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bai2 (1)" />
+        <item itemvalue="Application.Bai1 (1)" />
         <item itemvalue="Application.Bai4" />
         <item itemvalue="Application.Bai3" />
         <item itemvalue="Application.Bai2" />
-        <item itemvalue="Application.Bai1" />
-        <item itemvalue="Application.BTVN3.Bai2" />
       </list>
     </recent_temporary>
   </component>
@@ -159,5 +154,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
