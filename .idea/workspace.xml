@@ -42,12 +42,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../springboot/Spring-Boot-Tutorial" />
   </component>
   <component name="RunManager" selected="Application.Bai2 (1)">
-    <configuration name="Bai1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi6.Bai1" />
+    <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN6.Bai1" />
       <module name="JavaHit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Buoi6.*" />
+          <option name="PATTERN" value="BTVN6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi6.Bai2" />
+    <configuration name="Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTVN6.Bai2" />
       <module name="JavaHit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Buoi6.*" />
+          <option name="PATTERN" value="BTVN6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="QLCB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi6.QLCB" />
+      <option name="MAIN_CLASS_NAME" value="BTVN6.QLCB" />
       <module name="JavaHit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Buoi6.*" />
+          <option name="PATTERN" value="BTVN6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

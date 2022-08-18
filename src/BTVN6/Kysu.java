@@ -1,4 +1,4 @@
-package Buoi6;
+package BTVN6;
 
 public class Kysu extends CanBo{
     private String nganhDaoTao;

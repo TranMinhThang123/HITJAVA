@@ -1,4 +1,4 @@
-package Buoi6;
+package BTVN6;
 
 import java.util.ArrayList;
 import java.util.Scanner;

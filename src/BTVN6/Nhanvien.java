@@ -1,4 +1,4 @@
-package Buoi6;
+package BTVN6;
 
 public class Nhanvien extends CanBo{
     private String Congviec;

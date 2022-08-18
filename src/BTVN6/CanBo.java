@@ -1,6 +1,4 @@
-package Buoi6;
-
-import java.util.ArrayList;
+package BTVN6;
 
 public class CanBo {
     private int id;
